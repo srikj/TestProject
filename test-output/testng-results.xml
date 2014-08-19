@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34" started-at="2014-08-19T06:13:07Z" finished-at="2014-08-19T06:13:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34" started-at="2014-08-19T06:13:07Z" finished-at="2014-08-19T06:13:07Z">
+      <class name="com.cisco.shapes.test.RhombusTest">
+        <test-method status="PASS" signature="rhombusAreaWithBaseAndAngle()[pri:0, instance:com.cisco.shapes.test.RhombusTest@16df1832]" name="rhombusAreaWithBaseAndAngle" duration-ms="17" started-at="2014-08-19T11:43:07Z" finished-at="2014-08-19T11:43:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rhombusAreaWithBaseAndAngle -->
+        <test-method status="PASS" signature="rhombusAreaWithBaseAndHeight()[pri:0, instance:com.cisco.shapes.test.RhombusTest@16df1832]" name="rhombusAreaWithBaseAndHeight" duration-ms="0" started-at="2014-08-19T11:43:07Z" finished-at="2014-08-19T11:43:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rhombusAreaWithBaseAndHeight -->
+        <test-method status="PASS" signature="rhombusAreaWithDiagonals()[pri:0, instance:com.cisco.shapes.test.RhombusTest@16df1832]" name="rhombusAreaWithDiagonals" duration-ms="1" started-at="2014-08-19T11:43:07Z" finished-at="2014-08-19T11:43:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rhombusAreaWithDiagonals -->
+      </class> <!-- com.cisco.shapes.test.RhombusTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
